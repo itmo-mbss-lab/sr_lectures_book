@@ -7,7 +7,7 @@
 **Keywords:** voice biometrics, speaker recognition, speaker verification, speaker identification, acoustic features, speech activity detector, machine learning, speaker embedding extractor, deep neural network, decision theory, domain adaptation and calibration, speaker diarization.
 
 <p align="center">
-  <img src="images/cover/cover.png" width="550">
+  <img src="images/cover/cover_without_frame.png" width="600">
 </p>
 
 **Content:** the repository contains theoretical materials (now only in russian language) for self-study in the speaker recognition area. This book is a theoretical supplement to the lab work [here](https://github.com/itmo-mbss-lab/sr_labs_book). Overleaf project of the book is [here](https://www.overleaf.com/read/qbprtkvjjtjt#f2160d). The titles of the book chapters are listed below.
