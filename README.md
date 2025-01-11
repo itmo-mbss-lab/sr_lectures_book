@@ -2,14 +2,12 @@
 
 **Authors:** Novoselov S., Lavrentyeva G., Volokhov V., Matveev Y.
 
-**Description:** the project is related to the development of lectures for the ITMO Speaker Recognition Course.
+**Description:** the project is related to the development of *Basics of Voice Biometrics* lecture book for the ITMO Speaker Recognition Course.
 
 **Keywords:** voice biometrics, speaker recognition, speaker verification, speaker identification, acoustic features, speech activity detector, machine learning, speaker embedding extractor, deep neural network, decision theory, domain adaptation and calibration, speaker diarization.
 
 <p align="center">
-  <img src="" width="150">
-  <br />
-  <br />
+  <img src="images/cover/cover.png" width="550">
 </p>
 
 **Content:** the repository contains theoretical materials (now only in russian language) for self-study in the speaker recognition area. This book is a theoretical supplement to the lab work [here](https://github.com/itmo-mbss-lab/sr_labs_book). Overleaf project of the book is [here](https://www.overleaf.com/read/qbprtkvjjtjt#f2160d). The titles of the book chapters are listed below.
