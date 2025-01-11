@@ -9,7 +9,7 @@
 **Content:** the repository contains theoretical materials (now only in russian language) for self-study in the speaker recognition area. This book is a theoretical supplement to the lab work [here](https://github.com/itmo-mbss-lab/sr_labs_book). Overleaf project of the book is [here](https://www.overleaf.com/read/qbprtkvjjtjt#f2160d). The titles of the book chapters are listed below.
 
 - **Introduction**                                                            ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/03_intro.tex)).
-{grey}(- **Chapter 1.** Introduction to voice biometrics                             ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/04_chapter_01.tex)).)
+- {grey}(**Chapter 1.** Introduction to voice biometrics                             ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/04_chapter_01.tex)).)
 - **Chapter 2.** Preprocessing of speech signals                              ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/05_chapter_02.tex)).
 - **Chapter 3.** Classical methods for speaker model computing                ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/06_chapter_03.tex)).
 - **Chapter 4.** State of the art methods for speaker model computing         ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/07_chapter_04.tex)).
