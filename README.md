@@ -21,4 +21,4 @@
 - **Chapter 10.** Speaker diarization                                         ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/13_chapter_10.tex)).
 - **Chapter 11.** Prospective directions for the voice biometrics development ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/14_chapter_11.tex)).
 - **Subject index**                                                           ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/15_subject_index.tex)).
-- **Contents**                                                                 ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/16_content.tex)).
+- **Contents**                                                                 ([link](https://github.com/itmo-mbss-lab/sr_lectures_book/blob/main/16_contents.tex)).
